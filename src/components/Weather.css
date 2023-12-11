@@ -1,0 +1,47 @@
+.weather-container {
+    width: 75%;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin: auto; 
+  }
+  
+  .weather-details {
+    margin-top: 20px;
+  }
+  
+  label {
+    display: block;
+    margin-bottom: 10px;
+  }
+  
+  input {
+    width: 100%;
+    padding: 8px;
+    box-sizing: border-box;
+    margin-bottom: 10px;
+  }
+  
+  button {
+    background-color: #007bff;
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #0056b3;
+  }
+  
+  h2,
+  h3 {
+    color: #333;
+  }
+  
+  p {
+    margin: 8px 0;
+    color: #555;
+  }
+  
